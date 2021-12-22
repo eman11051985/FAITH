@@ -1,0 +1,17 @@
+body {background-color:white; background-image: url(flake.gif);
+}
+div{
+}
+h1 {text-align: center;text-decoration: underline;font: 50px;color:white;
+    border-style: double;border-collapse: initial; border-radius: 5px;
+    background-color:rgb(241, 33, 33);padding:-55px;margin: 2px;
+}
+img {border-style: solid double ;border-color:red;padding: 6px;margin: 5px;border: spacing 2px;px;
+    background-color:rgb(238, 61, 61);
+}
+h2{ color:white;text-align: center;text-decoration: underline; border-radius:initial;border-style: dashed;
+    background-color:rgb(243, 77, 77) ;border-color:red;
+}
+h5 {
+    text-align: center;
+}
